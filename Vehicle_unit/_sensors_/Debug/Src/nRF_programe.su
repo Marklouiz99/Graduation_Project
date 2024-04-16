@@ -1,0 +1,11 @@
+../Src/nRF_programe.c:20:6:nRF_voidGPIOConfig	8	static
+../Src/nRF_programe.c:34:6:nRF_voidSetCSS	8	static
+../Src/nRF_programe.c:38:6:nRF_voidClearCSS	8	static
+../Src/nRF_programe.c:42:6:nRF_voidSetCE	8	static
+../Src/nRF_programe.c:47:6:nRF_voidClearCE	8	static
+../Src/nRF_programe.c:54:6:nRF_voidWriteReg	24	static
+../Src/nRF_programe.c:68:6:nRF_voidWriteMultiReg	24	static
+../Src/nRF_programe.c:84:6:nRF_voidSendCmd	16	static
+../Src/nRF_programe.c:93:7:nRF_uint8ReadReg	24	static
+../Src/nRF_programe.c:111:6:nRF_voidReadRegMulti	16	static
+../Src/nRF_programe.c:123:6:nRF_voidInit	8	static
